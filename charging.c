@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "Functionality.h"
+#include "charging.h"
 
 #define checkrange(a, low, high)  (a>=low && a<=high)
 
